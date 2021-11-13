@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dragon29708
 - 👀 I’m interested in Software Engineering, Personal Finance and making cool stuff.
-- 🌱 I’m currently studying at the University of Kentucky where I major in CS and minor in Math.
+- 🌱 Software Engineer at Invar Systems. Graduated from the University of Kentucky with a CS degree December 2021.
 
 <!---
 dragon29708/dragon29708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
